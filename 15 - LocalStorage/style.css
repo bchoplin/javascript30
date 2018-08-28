@@ -76,3 +76,15 @@
       outline:0;
       border:1px solid rgba(0,0,0,0.1);
     }
+
+    .links {
+      margin: 20px 0 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .links li {
+      font-size: 12px;
+    }
